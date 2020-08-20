@@ -12,8 +12,6 @@ end
 
 display_board(board)
 
-<hr>
-
 board = [" "," "," "," ","X"," "," "," "," "]
 
 def display_board(board)
