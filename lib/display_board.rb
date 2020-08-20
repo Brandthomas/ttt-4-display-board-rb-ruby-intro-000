@@ -12,6 +12,3 @@ end
 
 display_board(board)
 
-board = [" "," "," "," "," "," "," "," "," "]
-
-puts " The "
