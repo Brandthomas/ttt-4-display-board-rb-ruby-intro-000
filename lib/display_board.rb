@@ -13,9 +13,9 @@ end
 display_board(board)
 
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
 puts "   |   |   "
 puts "-----------"
 puts "   | X |   "
 puts "-----------"
 puts "   |   |   "
-display_board(board)
