@@ -8,7 +8,7 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  bo
+  board = [" "," "," "," "," "," "," "," "," "]
 end
 
 display_board(board)
